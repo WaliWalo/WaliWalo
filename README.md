@@ -29,8 +29,10 @@ After all that I decided to improve my skills in web development, so I enrolled 
 </div>
 
 <div align="center">hungjinchong@outlook.com</div>
-
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaliWalo&hide=stars&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 <!--
 **WaliWalo/WaliWalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
