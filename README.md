@@ -18,11 +18,11 @@ I'm from Malaysia. I completed my Diploma in Software Engineering in Malaysia, t
 After all that I decided to improve my skills in web development, so I enrolled in Strive master camp for Full-Stack Developer. Now I am proud to say I'm a Full-Stack Developer looking for an opportunity where I can start my adventure in web development.
 </p>
 <div align="center">
-    <a href="https://www.linkedin.com/in/hungjinchong/">        
+    <a href="https://www.linkedin.com/in/hungjinchong/" target="_blank">        
             <img src="https://res.cloudinary.com/waliwalo/image/upload/v1617786130/portfolio/linkedin-icon-2_cv4ywd.svg" 
             width="100" height="100"/>
     </a>
-    <a href="https://jin-portfolio.vercel.app/">       
+    <a href="https://jin-portfolio.vercel.app/" target="_blank">       
             <img src="https://res.cloudinary.com/waliwalo/image/upload/v1617807197/portfolio/AvatarMaker_2_kp8v5q.png"
             width="100" height="100"/>
     </a>
