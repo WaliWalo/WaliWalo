@@ -1,3 +1,4 @@
+![Hung Jin Chong Header](/images/header.png)
 ### Hi there 👋
 
 <!--
