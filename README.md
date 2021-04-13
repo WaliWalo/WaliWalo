@@ -17,40 +17,18 @@ I'm from Malaysia. I completed my Diploma in Software Engineering in Malaysia, t
   text-align: justify;">
 After all that I decided to improve my skills in web development, so I enrolled in Strive master camp for Full-Stack Developer. Now I am proud to say I'm a Full-Stack Developer looking for an opportunity where I can start my adventure in web development.
 </p>
-<div class="iconsContainer" 
-    style="display: flex;
-  justify-content: center;
-  margin-bottom: 2em;
-  margin-top: 1em;">
-    <a href="https://www.linkedin.com/in/hungjinchong/">
-        <div class="icons" style="width: 5em;
-            height: 5em;
-            border-radius: 100%;
-            background-color: white;
-            margin: 1em;" >
+<div align="center">
+    <a href="https://www.linkedin.com/in/hungjinchong/">        
             <img src="https://res.cloudinary.com/waliwalo/image/upload/v1617786130/portfolio/linkedin-icon-2_cv4ywd.svg" 
-            style="width: 100%;
-            height: 100%;
-            object-fit: cover;
-            border-radius: 100%;"/>
-        </div>
+            width="100" height="100"/>
     </a>
-    <a href="https://jin-portfolio.vercel.app/">
-        <div class="icons" style="width: 5em;
-            height: 5em;
-            border-radius: 100%;
-            background-color: white;
-            margin: 1em;">
+    <a href="https://jin-portfolio.vercel.app/">       
             <img src="https://res.cloudinary.com/waliwalo/image/upload/v1617807197/portfolio/AvatarMaker_2_kp8v5q.png"
-            style="width: 100%;
-            height: 100%;
-            object-fit: cover;
-            border-radius: 100%;"/>
-        </div>
+            width="100" height="100"/>
     </a>
 </div>
 
-<div align="center" class="email">hungjinchong@outlook.com</div>
+<div align="center">hungjinchong@outlook.com</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaliWalo&hide=stars&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
