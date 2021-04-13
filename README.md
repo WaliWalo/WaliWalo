@@ -2,7 +2,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Train+One&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Teko&family=Train+One&display=swap" rel="stylesheet">
-<link href="/styles.css" rel="stylesheet" type="text/css"/>
 
 ![Hung Jin Chong Header](/images/header.jfif)
 
@@ -33,7 +32,7 @@ After all that I decided to improve my skills in web development, so I enrolled 
             style="width: 100%;
             height: 100%;
             object-fit: cover;
-            border-radius: 100%;">
+            border-radius: 100%;"/>
         </div>
     </a>
     <a href="https://jin-portfolio.vercel.app/">
@@ -46,7 +45,7 @@ After all that I decided to improve my skills in web development, so I enrolled 
             style="width: 100%;
             height: 100%;
             object-fit: cover;
-            border-radius: 100%;">
+            border-radius: 100%;"/>
         </div>
     </a>
 </div>
