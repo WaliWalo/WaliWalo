@@ -1,0 +1,188 @@
+h1 {
+  font-family: "Train One", cursive;
+}
+p {
+  font-family: "Teko", sans-serif;
+  font-size: 20px;
+  text-align: justify;
+}
+#logoContainer {
+  /* position:relative; */
+  /* width: 100vw; */
+  /* height: 12em;     */
+}
+.logos {
+  position: absolute;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  z-index: -1;
+  opacity: 0.5;
+}
+#logo0 {
+  width: 50px;
+  left: 40%;
+  top: 10%;
+  animation-name: position0;
+}
+#logo1 {
+  width: 70px;
+  left: 60%;
+  top: 35%;
+  animation-name: position1;
+}
+#logo2 {
+  width: 40px;
+  left: 60%;
+  top: 70%;
+  animation-name: position2;
+}
+#logo3 {
+  width: 35px;
+  top: 70%;
+  left: 30%;
+  animation-name: position3;
+}
+#logo4 {
+  width: 45px;
+  top: 35%;
+  left: 15%;
+  animation-name: position4;
+}
+@keyframes position0 {
+  0% {
+    left: 40%;
+    top: 10%;
+  }
+  20% {
+    left: 60%;
+    top: 35%;
+  }
+  40% {
+    left: 60%;
+    top: 70%;
+  }
+  60% {
+    top: 70%;
+    left: 30%;
+  }
+  80% {
+    top: 35%;
+    left: 15%;
+  }
+}
+@keyframes position1 {
+  80% {
+    left: 40%;
+    top: 10%;
+  }
+  0% {
+    left: 60%;
+    top: 35%;
+  }
+  20% {
+    left: 60%;
+    top: 70%;
+  }
+  40% {
+    top: 70%;
+    left: 30%;
+  }
+  60% {
+    top: 35%;
+    left: 15%;
+  }
+}
+@keyframes position2 {
+  60% {
+    left: 40%;
+    top: 10%;
+  }
+  80% {
+    left: 60%;
+    top: 35%;
+  }
+  0% {
+    left: 60%;
+    top: 70%;
+  }
+  20% {
+    top: 70%;
+    left: 30%;
+  }
+  40% {
+    top: 35%;
+    left: 15%;
+  }
+}
+@keyframes position3 {
+  40% {
+    left: 40%;
+    top: 10%;
+  }
+  60% {
+    left: 60%;
+    top: 35%;
+  }
+  80% {
+    left: 60%;
+    top: 70%;
+  }
+  0% {
+    top: 70%;
+    left: 30%;
+  }
+  20% {
+    top: 35%;
+    left: 15%;
+  }
+}
+@keyframes position4 {
+  20% {
+    left: 40%;
+    top: 10%;
+  }
+  40% {
+    left: 60%;
+    top: 35%;
+  }
+  60% {
+    left: 60%;
+    top: 70%;
+  }
+  80% {
+    top: 70%;
+    left: 30%;
+  }
+  0% {
+    top: 35%;
+    left: 15%;
+  }
+}
+.icons {
+  width: 5em;
+  height: 5em;
+  border-radius: 100%;
+  background-color: white;
+  margin: 1em;
+}
+.iconsContainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2em;
+  margin-top: 1em;
+}
+.icons > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 100%;
+}
+.icons > img:hover {
+  cursor: pointer;
+}
+.email {
+  margin-bottom: 1em;
+  font-family: "Teko", sans-serif;
+  font-size: 2em;
+}
