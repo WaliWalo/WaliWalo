@@ -1,36 +1,49 @@
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Train+One&display=swap" rel="stylesheet">
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Teko&family=Train+One&display=swap" rel="stylesheet">
-
 ![Hung Jin Chong Header](/images/header.jfif)
 
-<h1 align="center" style="font-family: 'Train One', cursive;">Hello there! My name is Jin <img src="https://res.cloudinary.com/waliwalo/image/upload/v1618306281/portfolio/handWave_oow7h1.gif" width="20px"></h1>
+<h1 align="center"><img src="https://res.cloudinary.com/waliwalo/image/upload/v1618384835/portfolio/hello_xk8bsg.png" width="350px"/> <img src="https://res.cloudinary.com/waliwalo/image/upload/v1618306281/portfolio/handWave_oow7h1.gif" width="35px"></h1>
 
-<p style="font-family: 'Teko', sans-serif;
-  font-size: 20px;
-  text-align: justify;">
+<p>
 I'm from Malaysia. I completed my Diploma in Software Engineering in Malaysia, then continued my studies in Dublin where I acquired my Bachelor Degree in Computer Science.
 </p>
-<p style="font-family: 'Teko', sans-serif;
-  font-size: 20px;
-  text-align: justify;">
+<p>
 After all that I decided to improve my skills in web development, so I enrolled in Strive master camp for Full-Stack Developer. Now I am proud to say I'm a Full-Stack Developer looking for an opportunity where I can start my adventure in web development.
 </p>
+
+---
+
+💻Technologies
+<br>
+
+![](https://img.shields.io/badge/-Mongo-grey?logo=mongodb)
+![](https://img.shields.io/badge/-ExpressJS-grey?logo=express)
+![](https://img.shields.io/badge/-React-grey?logo=react)
+![](https://img.shields.io/badge/-NodeJS-grey?logo=node.js)
+![](https://img.shields.io/badge/-Typescript-grey?logo=typescript)
+![](https://img.shields.io/badge/-Redux-grey?logo=redux)
+![](https://img.shields.io/badge/-SocketIO-grey?logo=socket.io)
+![](https://img.shields.io/badge/-GSAP-grey?logo=greensock)
+![](https://img.shields.io/badge/-Heroku-grey?logo=heroku)
+![](https://img.shields.io/badge/-Vercel-grey?logo=vercel)
+
+---
+
+|     | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waliwalo&count_private=true&show_icons=true&theme=dark&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats) |     |
+| --- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --- |
+
+<br>
+
 <div align="center">
     <a href="https://www.linkedin.com/in/hungjinchong/" target="_blank">        
             <img src="https://res.cloudinary.com/waliwalo/image/upload/v1617786130/portfolio/linkedin-icon-2_cv4ywd.svg" 
-            width="100" height="100"/>
+            width="50" height="50"/>
     </a>
     <a href="https://jin-portfolio.vercel.app/" target="_blank">       
             <img src="https://res.cloudinary.com/waliwalo/image/upload/v1617807197/portfolio/AvatarMaker_2_kp8v5q.png"
-            width="100" height="100"/>
+            width="50" height="50"/>
     </a>
 </div>
 
-<div align="center">hungjinchong@outlook.com</div>
-
-
+<div align="center"><img src="https://res.cloudinary.com/waliwalo/image/upload/v1618384936/portfolio/email_al97rt.png" width="200px"></div>
 
 <!--
 **WaliWalo/WaliWalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
