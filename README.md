@@ -28,7 +28,7 @@ After all that I decided to improve my skills in web development, so I enrolled 
 
 ---
 
-| ![](https://res.cloudinary.com/waliwalo/image/upload/v1618387221/portfolio/oie_1495826LPVkI2IU_3_eqlsqj.gif) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waliwalo&count_private=true&show_icons=true&theme=dark&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats) | ![](https://res.cloudinary.com/waliwalo/image/upload/v1618387221/portfolio/oie_1495826LPVkI2IU_3_eqlsqj.gif) |
+| ![](https://res.cloudinary.com/waliwalo/image/upload/v1618387221/portfolio/oie_1495826LPVkI2IU_3_eqlsqj.gif) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waliwalo&count_private=true&show_icons=true&theme=dark&hide=stars,contribs)](https://github.com/WaliWalo) | ![](https://res.cloudinary.com/waliwalo/image/upload/v1618387221/portfolio/oie_1495826LPVkI2IU_3_eqlsqj.gif) |
 | ------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------ |
 
 <br>
