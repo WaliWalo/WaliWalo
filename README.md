@@ -24,6 +24,7 @@ After all that I decided to improve my skills in web development, so I enrolled 
 ![](https://img.shields.io/badge/-GSAP-grey?logo=greensock)
 ![](https://img.shields.io/badge/-Heroku-grey?logo=heroku)
 ![](https://img.shields.io/badge/-Vercel-grey?logo=vercel)
+![](https://img.shields.io/badge/-Github-grey?logo=github)
 
 ---
 
