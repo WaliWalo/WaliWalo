@@ -1,4 +1,4 @@
-![Hung Jin Chong Header](/images/header.jfif)
+[![Hung Jin Chong Header](/images/header.jfif)](#)
 
 <h1 align="center"><img src="https://res.cloudinary.com/waliwalo/image/upload/v1618384835/portfolio/hello_xk8bsg.png" width="350px"/> <img src="https://res.cloudinary.com/waliwalo/image/upload/v1618306281/portfolio/handWave_oow7h1.gif" width="35px"></h1>
 
@@ -15,16 +15,16 @@ After all that I decided to improve my skills in web development, so I enrolled 
 <br>
 
 [![](https://img.shields.io/badge/-Mongo-grey?logo=mongodb)](#)
-![](https://img.shields.io/badge/-ExpressJS-grey?logo=express)
-![](https://img.shields.io/badge/-React-grey?logo=react)
-![](https://img.shields.io/badge/-NodeJS-grey?logo=node.js)
-![](https://img.shields.io/badge/-Typescript-grey?logo=typescript)
-![](https://img.shields.io/badge/-Redux-grey?logo=redux)
-![](https://img.shields.io/badge/-SocketIO-grey?logo=socket.io)
-![](https://img.shields.io/badge/-GSAP-grey?logo=greensock)
-![](https://img.shields.io/badge/-Heroku-grey?logo=heroku)
-![](https://img.shields.io/badge/-Vercel-grey?logo=vercel)
-![](https://img.shields.io/badge/-Github-grey?logo=github)
+[![](https://img.shields.io/badge/-ExpressJS-grey?logo=express)](#)
+[![](https://img.shields.io/badge/-React-grey?logo=react)](#)
+[![](https://img.shields.io/badge/-NodeJS-grey?logo=node.js)](#)
+[![](https://img.shields.io/badge/-Typescript-grey?logo=typescript)](#)
+[![](https://img.shields.io/badge/-Redux-grey?logo=redux)](#)
+[![](https://img.shields.io/badge/-SocketIO-grey?logo=socket.io)](#)
+[![](https://img.shields.io/badge/-GSAP-grey?logo=greensock)](#)
+[![](https://img.shields.io/badge/-Heroku-grey?logo=heroku)](#)
+[![](https://img.shields.io/badge/-Vercel-grey?logo=vercel)](#)
+[![](https://img.shields.io/badge/-Github-grey?logo=github)](#)
 
 ---
 
