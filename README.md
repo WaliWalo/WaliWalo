@@ -43,7 +43,7 @@ After all that I decided to improve my skills in web development, so I enrolled 
     </a>
 </div>
 
-<div align="center"><img src="https://res.cloudinary.com/waliwalo/image/upload/v1618384936/portfolio/email_al97rt.png" width="200px"></div>
+<div align="center">hungjinchong@outlook.com</div>
 
 <!--
 **WaliWalo/WaliWalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
